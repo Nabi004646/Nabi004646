@@ -32,7 +32,7 @@
 
 - 📫 How to reach me:
 
-    * [**Drop a Mail**](mailto:sudosuwz61m58x004646@gmail.com)
+    * [**Drop a Mail**](https://mail.google.com/mail/mu/mp/320/#mn)
 
     * [**Connect via LinkedIn**](https://www.linkedin.com/in/nabin-kunwar-332551356/)
 
