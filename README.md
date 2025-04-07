@@ -1,5 +1,5 @@
 <div align="center">
-<img src="/octo.gif" alt="GitHub Logo" width="800" height="150" />
+<img src="/octo.gif" alt="GitHub Logo" width="160" height="150" />
 </div>
 
 # Welcome To My GitHub Profile !
