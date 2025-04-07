@@ -2,7 +2,7 @@
 <img src="/octo.gif" alt="GitHub Logo" width="160" height="150" />
 </div>
 
-# Welcome To My GitHub Profile !  -- Myself Nabin Kunwar
+# You are Welcomed by Mr. Nabin kunwar
 
 <br/>
 
